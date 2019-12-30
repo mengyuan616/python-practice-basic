@@ -1,12 +1,6 @@
 #  File: DayOfTheWeek.py
-#  Description: HW 6. This program is designed to output the day of the week for the date entered.
-#  Student's Name: Mengyuan Dong
-#  Student's UT EID: md42252
-#  Course Name: CS 303E 
-#  Unique Number: 51205
-#
-#  Date Created: 09/27
-#  Date Last Modified: 09/28
+#  Description: This program is designed to output the day of the week for the date entered.
+
 
 def main():
 
